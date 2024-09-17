@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GehrmanG
 - 👀 I’m interested in Cryogenics, Chemical Engineering, Heat-Mass Transfer and Computational Fluid Mechanics
-- 🌱 I’m currently learning Cryogenics and CFD-Modeling
+- 🌱 I’m currently learning Cryogenics, CFD-Modeling and Machine Learning
 - 📫 Email me at govorkov.01@mail.ru
 - ⚡ Fun fact: I wish to become a Gas Engineer on a LNG ship
 
